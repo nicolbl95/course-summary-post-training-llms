@@ -2,6 +2,9 @@
 
 Ce dépôt présente une synthèse structurée en français d’un cours consacré aux principales méthodes de post-entraînement des grands modèles de langage.
 
+Pour consulter le contenu officiel, les explications détaillées et les exercices pratiques, vous pouvez accéder au [cours Post-training of LLMs sur DeepLearning.AI](https://www.deeplearning.ai/courses/post-training-of-llms).
+
+
 Les thèmes étudiés comprennent :
 
 - l’introduction au post-training des LLM ;
